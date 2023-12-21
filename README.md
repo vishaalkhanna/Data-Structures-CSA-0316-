@@ -8,3 +8,5 @@
 8. Find the Factorial of a given number using recursion
 9. Linear search of array
 10. Binary search of array
+11. Insert element in array
+12. Delete element in array
