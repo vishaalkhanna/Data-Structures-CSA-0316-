@@ -4,7 +4,7 @@ int search(int array[],int size,int target){
 	for(int i=0;i<size;i++){
 		if(array[i]==target){
 			printf("\nElement is found in the array");
-			break;
+			return 0;
 		}
 	}
 	printf("\nElement is not found in the array");
