@@ -23,3 +23,11 @@ Day 2 - Recursion and Search<br />
 2.4. Find the Factorial of a given number using recursion<br />
 2.5. Linear search of array<br />
 2.6. Binary search of array<br />
+<br />
+Day 3 – Singly Linked List<br />
+3.1.	Implement SLL with following operations(Insert(Beg,Mid,End),Delete(Beg,Mid,End),Display,Search,Sort,Find Max and Min)<br />
+3.2.	To determine whether a given singly linked list is a palindrome<br />
+3.3.	To merge two sorted singly linked lists into a single sorted linked list<br />
+3.4.	Print no of nodes in the given linked list<br />
+3.5.	Intersect SLL<br />
+3.6. Reverse - SLL<br />
