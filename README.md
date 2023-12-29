@@ -47,3 +47,35 @@ Day 6<br />
 6.1. Write a function that takes a string containing parentheses , square brackets  and curly braces "  ( { [ ] } " and determines if the symbols are balanced.<br />
 6.2. Write a function to evaluate a given postfix expression. The expression is "44 2 / 6 -"<br />
 6.3. Write a function to convert an infix expression to postfix notation. The infix expression is " "(a + b) * c + d "<br />
+<br />
+Day 7<br />
+7.1. Implement Queue using array with following operations[
+Enqueue( )
+Dequeue( )
+isEmpty( )
+isFull( )
+Display( )
+front( ) orPeek( )
+rear( )]<br />
+7.2. Implement Queue using Linked List with following operations
+[Enqueue( )
+Dequeue( )
+Display( )
+Front( )
+Rear( )]<br />
+7.3. Implement CircularQueue using array with following operations
+[Enqueue( )
+Dequeue( )
+isEmpty( )
+isFull( )
+Display( )
+front( ) orPeek( )
+rear( )]<br />
+7.4. Implement CircularQueue using Linked List with following operations
+[Enqueue( )
+Dequeue( )
+Display( )
+Front( )
+Rear( )]<br />
+7.5. Implement Stack using two queues<br />
+7.6. Implement Queue using two Stacks<br />
