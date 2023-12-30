@@ -79,3 +79,8 @@ Front( )
 Rear( )]<br />
 7.5. Implement Stack using two queues<br />
 7.6. Implement Queue using two Stacks<br />
+<br />
+Day 8<br />
+8.1. Implement Binary tree<br />
+8.2. Implement Binary Search Tree and perform Insertion and Deletion<br />
+8.3. Create Binary Search Tree with Tree Traversal (Inorder, Preorder, Postorder and Level order)<br /> 
