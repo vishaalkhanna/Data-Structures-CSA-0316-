@@ -111,3 +111,13 @@ Day 13<br />
 13.3 Radix Sort<br />
 13.4 Merge Sort<br />
 13.5 Shell Sort<br />
+<br />
+
+Day 14<br />
+14.1 Selection Sort<br />
+14.2 Quick Sort<br />
+<br />
+
+Day 15<br />
+15.1 Graph representation using array<br />
+15.2 Graph representation using Linked List<br />
