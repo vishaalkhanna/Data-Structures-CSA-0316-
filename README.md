@@ -121,3 +121,14 @@ Day 14<br />
 Day 15<br />
 15.1 Graph representation using array<br />
 15.2 Graph representation using Linked List<br />
+<br />
+
+Day 16<br />
+16.1 Implement a C Program to find MST for the given graph using Prim's Algorithm<br />
+16.2 Implement a C Program to find MST for the given graph using Kruskal's Algorithm<br />
+<br />
+
+Day 17<br />
+17.1 Implement a C Program to find the shortest path for the given weighted directed graph using Dijkstra's Algorithm<br />
+17.2 Implement a C Program to find MST shortest path for the given unweighted directed graph using Dijkstra's Algorithm<br />
+<br />
